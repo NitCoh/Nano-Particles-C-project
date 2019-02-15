@@ -1,4 +1,4 @@
-﻿/*Written by Nitzan Cohen in C programming course - BGU 2017.*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
